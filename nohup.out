@@ -1,0 +1,9 @@
+[2022-07-19 14:09:57 +0000] [7691] [INFO] Starting gunicorn 20.1.0
+[2022-07-19 14:09:57 +0000] [7691] [INFO] Listening at: http://0.0.0.0:5000 (7691)
+[2022-07-19 14:09:57 +0000] [7691] [INFO] Using worker: sync
+[2022-07-19 14:09:57 +0000] [7693] [INFO] Booting worker with pid: 7693
+[2022-07-19 14:11:26 +0000] [7691] [INFO] Handling signal: int
+[2022-07-19 14:11:26 +0000] [7693] [INFO] Worker exiting (pid: 7693)
+[2022-07-19 14:11:27 +0000] [7691] [INFO] Shutting down: Master
+
+Aborted!
